@@ -2,7 +2,7 @@
     "hostRules": [
         {
             "matchHost": "github.com",
-            "hostType": "github",
+            "hostType": "git-tags",
             "encrypted": {
                 "token": "wcFMA/xDdHCJBTolAQ//SZ8H9fZoNejWTdfFahUUY1rB984DRiz5/zY6Dd+wnhuXQHIQCm3yxPSWuSIX/3vcHs4n3Ak2nZI1R5DNjQAnewKGFQgoVarFD61UgWR6EIXQJ8s/VtE6E/cQESN14UTYNYFQiJI1Vw5jsZBAMLgK2y83p4y09kVtiNpLHZcXbAu+EtCbC42ZcVpAr1QYbM70lj+YC3THrNJC/jZ/epfglC//Txzrq/60FwAgbTsE3AaSRtBlgqbDimJnIReuQDmxgr4KZt+xUCxK4v8eGwyNqnWp89rY255pJfVWEhoeKOqBdszhuP3mrHT5d8HEs1QiOsnp80bG2cETWQ4HSnF0xA1ECThmaIsic4vGZTdbTWqPU2Ygw4zKMKaB2Cuuh6wT7+U6jEUStkU+m8GedvWF5REIUtUoO5zreum6cNX2Ay7ZlosAm3mfMyH7xML3LSgCoFb0keQYyUNsUIrkJ076f0QiqedalA2Kvqs4vyFfkxag5gdAnTzH3SqFwFISIFqNV+fKf6/pLqYrJaBEVtWve1XEO6aqjwQiVLBESSmumxMiAtAmkRK2IWKEEfHxnPbgbLQ21YnW8rm/AZtN+qUidwFqdJRY03TtZu6yyMJ1x7RJp59nluqgEYuNN+aaF0AA2Ufhog/IRc2dY6jErdh+Sqf4rAVFKr1Les/C3gd0GFrSegEUfamsoEHHTwmtav01zY1q3pgzAfoQH2bzjIFk1RkMYfwnTlWn09hWP+BFDrX+M/l98xN3BriJBWMBT9kfpjdzUpGsSj1DJfaEPBM+672QdHxl4ldfnQ+HeB5NQi1q25XSxvzgqqPpEOpwqEEf8CbY9hGsGF8lGINl"
             }
