@@ -2,5 +2,16 @@
   "extends": [
     "github>benjaminmal/renovate-config"
   ],
-  "rangeStrategy": "widen"
+  "packageRules": [
+    {
+      "matchDepTypes": ["require"],
+      "rangeStrategy": "widen"
+    },
+    {
+      "matchDepTypes": ["require-dev"],
+      "rangeStrategy": "bump",
+      "groupName": "dev dependencies",
+      "schedule": ["every weekend"]
+    }
+  ]
 }
