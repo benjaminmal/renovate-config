@@ -7,6 +7,6 @@
     "enabled": true,
     "automerge": true,
     "addLabels": ["automerge"],
-    "schedule": ["every weekend"]
+    "schedule": ["before 1am on Sunday"]
   }
 }
