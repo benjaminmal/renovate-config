@@ -12,6 +12,11 @@
       "rangeStrategy": "bump",
       "groupName": "dev dependencies",
       "schedule": ["before 6am on Monday"]
+    },
+    {
+      "matchPackagePrefixes": ["symfony/"],
+      "matchUpdateTypes": ["minor"],
+      "enabled": false
     }
   ]
 }
