@@ -16,6 +16,12 @@
       "matchPackagePrefixes": ["e-lodgy/", "benjaminmal/"],
       "addLabels": ["intern", "automerge"],
       "stabilityDays": 0
+    },
+    {
+      "matchDepTypes": ["require-dev"],
+      "rangeStrategy": "bump",
+      "groupName": "dev dependencies",
+      "schedule": ["before 6am on Monday"]
     }
   ],
   "labels": ["bot", "dependencies"],
