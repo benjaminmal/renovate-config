@@ -7,7 +7,7 @@
     "enabled": true,
     "automerge": true,
     "addLabels": ["automerge"],
-    "schedule": ["before 1am on Sunday"]
+    "schedule": ["before 7am on Monday"]
   },
   "packageRules": [
     {
